@@ -27,4 +27,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Areeba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=areeba20044&show_icons=true&theme=github_dark)
+![Areeba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=areeba20044-cmyk4&show_icons=true&theme=github_dark)
