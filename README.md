@@ -2,7 +2,7 @@
 <h3 align="center">Final Year Software Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=App+Developer+📱;Software+Tester+🧪;AI+Projects+Builder+🤖;UI+Designer+🎨;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=App+Developer+📱;Software+Tester+🧪;AI+Projects+Builder+🤖;UI+Designer+🎨;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -27,4 +27,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Areeba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=areeba20044-cmyk4&show_icons=true&theme=github_dark)
+![Areeba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=areeba20044-cmyk&show_icons=true&theme=github_dark)
